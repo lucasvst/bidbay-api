@@ -1,0 +1,8 @@
+{
+  "name": "bidbay-api",
+  "description": "Bidbay API",
+  "repository": "",
+  "logo": "",
+  "keywords": ["bidbay", "api"],
+  "image": "heroku/nodejs"
+}
